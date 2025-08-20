@@ -1,16 +1,50 @@
-## Hi there 👋
+portofolio GitHub
 
-<!--
-**Asnan09/Asnan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Asnan 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🎓 Mahasiswa Sistem Informasi @ Universitas Mulawarman  
+  🧩 Troubleshooter & Dokumentator Teknis  
+  🚀 Aktif belajar React • Backend • AI • Web Standards  
+  📍 Samarinda, Indonesia  
+</p>
+
+---
+
+## 💡 Tentang Saya
+
+Saya adalah pengembang pemula yang sedang membangun fondasi kuat di dunia software development.  
+Saya aktif mengikuti jalur akademik onboarding yang mendorong saya untuk:
+
+- 🔍 Menyelesaikan masalah teknis secara efisien
+- 📁 Mengelola folder dan file dengan struktur yang rapi
+- 🧠 Belajar pemrograman dasar, HTML/CSS, dan standar web
+- ⚛️ Membangun aplikasi React dan backend yang terintegrasi dengan AI
+
+Saya percaya bahwa dokumentasi yang jelas dan pendekatan praktis adalah kunci pembelajaran yang efektif.
+
+---
+
+## 🧰 Skillset
+
+| Area            | Tools & Teknologi                     |
+|-----------------|----------------------------------------|
+| Frontend        | HTML, CSS, JavaScript, React           |
+| Backend         | Node.js, Express, REST API             |
+| AI & Cloud      | TensorFlow (dasar), GitHub, Git        |
+| Workflow        | VS Code, GitHub Projects, Markdown     |
+| Soft Skills     | Troubleshooting, dokumentasi naratif   |
+
+---
+
+## 📫 Kontak & Jejak Digital
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/asnan-fadjri-wahyudi-9051a1335/)
+- 📮 Email: asnanfadjriw@gmail.com
+- 🌐 Website (coming soon)
+
+---
+
+> “Belajar bukan soal tahu segalanya, tapi soal terus penasaran dan berani mencoba.”  
+> — Asnan ✨
