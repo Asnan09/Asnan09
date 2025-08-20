@@ -38,6 +38,17 @@ Saya percaya bahwa dokumentasi yang jelas dan pendekatan praktis adalah kunci pe
 
 ---
 
+### 📊 GitHub Statistics
+<p align="left">
+  <a href="https://github.com/asnanfadjriwahyudi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asnanfadjriwahyudi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asnanfadjriwahyudi&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
+
+
+---
+
 ## 📫 Kontak & Jejak Digital
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asnan-fadjri-wahyudi-9051a1335/)
