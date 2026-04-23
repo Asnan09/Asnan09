@@ -1,57 +1,27 @@
-portofolio GitHub
-
-
-<h1 align="center">Hi there, I'm Asnan 👋</h1>
-
+<h1 align="center">Asnan Fadjri Wahyudi</h1>
 <p align="center">
-  🎓 Mahasiswa Sistem Informasi @ Universitas Mulawarman  
-  🧩 Troubleshooter & Dokumentator Teknis  
-  🚀 Aktif belajar React • Backend • AI • Web Standards  
-  📍 Samarinda, Indonesia  
+Information Systems Student | Web Developer
 </p>
 
 ---
 
-## 💡 Tentang Saya
+## Profile
+My name is Asnan Fadjri Wahyudi, a fifth-semester Information Systems student at Mulawarman University with a strong interest in web development, focusing on both frontend and backend technologies.
 
-Saya adalah pengembang pemula yang sedang membangun fondasi kuat di dunia software development.  
-Saya aktif mengikuti jalur akademik onboarding yang mendorong saya untuk:
+Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript, PHP, MySQL, Python, and Java. I currently concentrate on modern web development using React, Node.js, and Tailwind CSS, and continuously improve my skills through academic projects and hands-on development work.
 
-- 🔍 Menyelesaikan masalah teknis secara efisien
-- 📁 Mengelola folder dan file dengan struktur yang rapi
-- 🧠 Belajar pemrograman dasar, HTML/CSS, dan standar web
-- ⚛️ Membangun aplikasi React dan backend yang terintegrasi dengan AI
-
-Saya percaya bahwa dokumentasi yang jelas dan pendekatan praktis adalah kunci pembelajaran yang efektif.
+I am committed to developing efficient, scalable, and user-focused web applications, and to continuously advancing my technical expertise.
 
 ---
 
-## 🧰 Skillset
-
-| Area            | Tools & Teknologi                     |
-|-----------------|----------------------------------------|
-| Frontend        | HTML, CSS, JavaScript, React           |
-| Backend         | Node.js, Express, REST API             |
-| AI & Cloud      | TensorFlow (dasar), GitHub, Git        |
-| Workflow        | VS Code, GitHub Projects, Markdown     |
-| Soft Skills     | Troubleshooting, dokumentasi naratif   |
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,python,java" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-
-![Asnan09's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asnan09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asnan09&layout=compact&theme=radical)
-
----
-
-## 📫 Kontak & Jejak Digital
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/asnan-fadjri-wahyudi-9051a1335/)
-- 📮 Email: asnanfadjriw@gmail.com
-- 🌐 Website (coming soon)
-
----
-
-> “Belajar bukan soal tahu segalanya, tapi soal terus penasaran dan berani mencoba.”  
-> — Asnan ✨
+## GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=default&hide_border=true" />
+</p>
