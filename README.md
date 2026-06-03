@@ -33,7 +33,7 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
     />
     <img 
       height="180" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asnan09&layout=compact&bg_color=000000&title_color=bb86fc&text_color=ffffff&border_color=30363d&border_radius=10&custom_title=My%20Programming%20Languages" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asnan09&layout=compact&theme=algolia&custom_title=My%20Programming%20Languages" 
       alt="My Programming Languages" 
     />
   </a>
