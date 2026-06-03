@@ -12,33 +12,35 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
 
 ---
 
-## TECH STACK
+## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,python,java" style="vertical-align: middle;" />
+  <a href="https://laragon.org">
+    <img src="https://img.shields.io/badge/Laragon-006699?style=for-the-badge&logo=laragon&logoColor=white" height="48" style="vertical-align: middle; margin-left: 8px;" />
+  </a>
 </p>
 
 ---
 
-## GITHUB STATISTICS
+## Github Statistic
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnan09&layout=compact&theme=tokyonight&hide_border=true" 
-  />
+  <a href="https://github.com/Asnan09">
+    <img 
+      src="https://github-stats-extended.vercel.app/api?username=Asnan09&show_icons=true&bg_color=0b0f19&title_color=818cf8&text_color=cbd5e1&icon_color=f97316&border_color=1e293b&border_radius=10&custom_title=My%20GitHub%20Statistics" 
+      height="195" 
+      alt="My GitHub Statistics" 
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Asnan09">
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Asnan09&layout=compact&bg_color=0b0f19&title_color=818cf8&text_color=cbd5e1&icon_color=f97316&border_color=1e293b&border_radius=10&custom_title=My%20Programming%20Languages" 
+      height="195" 
+      alt="My Programming Languages" 
+    />
+  </a>
 </p>
 
-## My Programming Languages
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnan09&layout=compact&theme=tokyonight&hide_border=true" 
-  />
-</p>
 
----
-
-## MY PROGRAMMING LANGUAGES
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnan09&layout=compact&theme=tokyonight&hide_border=true&title_color=bb86fc" />
-</p>
