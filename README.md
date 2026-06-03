@@ -16,7 +16,7 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,tailwind,python,java" style="vertical-align: middle;" />
   <a href="https://laragon.org">
-    <img src="https://img.shields.io/badge/Laragon-006699?style=for-the-badge&logo=laragon&logoColor=white" height="48" style="vertical-align: middle; margin-left: 8px;" />
+    <img src="./laragon.svg" height="48" style="vertical-align: middle; margin-left: 8px;" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
 <p align="center">
   <a href="https://github.com/Asnan09">
     <img 
-      src="https://github-stats-extended.vercel.app/api?username=Asnan09&show_icons=true&bg_color=0b0f19&title_color=818cf8&text_color=cbd5e1&icon_color=f97316&border_color=1e293b&border_radius=10&custom_title=My%20GitHub%20Statistics" 
+      src="https://github-stats-extended.vercel.app/api?username=Asnan09&show_icons=true&bg_color=000000&title_color=bb86fc&text_color=ffffff&icon_color=ff79c6&border_color=30363d&border_radius=10&custom_title=My%20GitHub%20Statistics" 
       height="195" 
       alt="My GitHub Statistics" 
     />
@@ -35,12 +35,13 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
   &nbsp;&nbsp;
   <a href="https://github.com/Asnan09">
     <img 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Asnan09&layout=compact&bg_color=0b0f19&title_color=818cf8&text_color=cbd5e1&icon_color=f97316&border_color=1e293b&border_radius=10&custom_title=My%20Programming%20Languages" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Asnan09&layout=compact&bg_color=000000&title_color=bb86fc&text_color=ffffff&border_color=30363d&border_radius=10&custom_title=My%20Programming%20Languages" 
       height="195" 
       alt="My Programming Languages" 
     />
   </a>
 </p>
+
 
 
 
