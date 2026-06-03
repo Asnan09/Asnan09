@@ -24,23 +24,21 @@ Throughout my studies, I have built a solid foundation in HTML, CSS, JavaScript,
 
 ## Github Statistic
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Asnan09">
     <img 
-      src="https://github-stats-extended.vercel.app/api?username=Asnan09&show_icons=true&bg_color=000000&title_color=bb86fc&text_color=ffffff&icon_color=ff79c6&border_color=30363d&border_radius=10&custom_title=My%20GitHub%20Statistics" 
-      height="195" 
+      height="180" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asnan09&show_icons=true&bg_color=000000&title_color=bb86fc&text_color=ffffff&icon_color=ff79c6&border_color=30363d&border_radius=10&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics" 
       alt="My GitHub Statistics" 
     />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Asnan09">
     <img 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Asnan09&layout=compact&bg_color=000000&title_color=bb86fc&text_color=ffffff&border_color=30363d&border_radius=10&custom_title=My%20Programming%20Languages" 
-      height="195" 
+      height="180" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Asnan09&layout=compact&bg_color=000000&title_color=bb86fc&text_color=ffffff&border_color=30363d&border_radius=10&custom_title=My%20Programming%20Languages" 
       alt="My Programming Languages" 
     />
   </a>
 </p>
+
 
 
 
