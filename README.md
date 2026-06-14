@@ -1,6 +1,6 @@
 <h1 align="center">Asnan Fadjri Wahyudi</h1>
 <p align="center">
-Information Systems Student | Web Developer
+Information Systems Student
 </p>
 
 ---
